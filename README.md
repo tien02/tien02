@@ -4,23 +4,7 @@
 - 💞️ I’m currently studing at University of Information and Technology (UIT) at Ho Chi Minh City.
 - 📫 Contact me at email address 20520800@gm.uit.edu.vn.
 
-<!--START_SECTION:badges-->
-name: Update badges
-
-on:
-  schedule:
-    # Runs at 2am UTC
-    - cron: "0 2 * * *"
-jobs:
-  update-readme:
-    name: Update Readme with badges
-    runs-on: ubuntu-latest
-    steps:
-      - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
-        with:       
-          CREDLY_USER: <Tiến Đặng> # optional, but default will use the same from github
-<!--END_SECTION:badges-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gruvbox&show_icons=true)
 
 <!---
 tien02/tien02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
