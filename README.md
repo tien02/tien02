@@ -5,7 +5,21 @@
 - 📫 Contact me at email address 20520800@gm.uit.edu.vn.
 
 <!--START_SECTION:badges-->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e01212e4-f6e9-4f0d-9f33-9195a74d6526" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 2am UTC
+    - cron: "0 2 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:       
+          CREDLY_USER: <Tiến Đặng> # optional, but default will use the same from github
 <!--END_SECTION:badges-->
 
 <!---
