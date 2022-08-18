@@ -4,7 +4,7 @@
 - 💞️ I’m currently studing at University of Information and Technology (UIT) at Ho Chi Minh City.
 - 📫 Contact me at email address 20520800@gm.uit.edu.vn.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gruvbox&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tien02&theme=gruvbox&show_icons=true)
 
 <!---
 tien02/tien02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
