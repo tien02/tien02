@@ -4,6 +4,9 @@
 - 💞️ I’m currently studing at University of Information and Technology (UIT) at Ho Chi Minh City.
 - 📫 Contact me at email address 20520800@gm.uit.edu.vn.
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tien02&theme=gruvbox&show_icons=true)
 
 <!---
