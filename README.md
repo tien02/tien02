@@ -4,6 +4,8 @@
 - 💞️ I’m currently studing at University of Information and Technology (UIT) at Ho Chi Minh City.
 - 📫 Contact me at email address 20520800@gm.uit.edu.vn.
 
+<br> 
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
