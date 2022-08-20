@@ -24,11 +24,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width=50 height=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width=50 height=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width=50 height=50/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Jupyter" alt="Jupyter" width=50 height=50/>" title="Git" alt="Git" width=50 height=50/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width=50 height=50/>
 </div>
 <hr>
 
 ### :fire: My Stats :
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tien02&theme=gruvbox&show_icons=true)
 
