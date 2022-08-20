@@ -15,8 +15,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tien02&theme=gruvbox&show_icons=true)
 
-### Language and Tools
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/PyTorch.svg" />
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width=40 height=40/>
+</div>
 
 <!---
 tien02/tien02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
