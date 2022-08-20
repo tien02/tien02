@@ -1,4 +1,4 @@
-## **Howdy, I'm Tien** :octocat:
+## :octocat: **Howdy, I'm Tien** 
 
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
