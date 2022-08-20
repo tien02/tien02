@@ -6,6 +6,9 @@
 - :innocent: I love Machine Learning and Deep Learning.
 - :smiling_imp: I have knowledge in Computer Vision and Natuaral Language Processing area.
 
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif">
+
 <hr>
 
 ### :mailbox_with_no_mail: Connect with me
@@ -15,7 +18,7 @@
 <br><br><hr>
 
 ### :hammer_and_wrench: Languages and Tools :
-
+<hr>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width=50 height=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width=50 height=50/>
@@ -39,12 +42,9 @@
 
 ### :fire: My Stats :
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tien02&theme=gruvbox&show_icons=true)  |  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tien02&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tien02&theme=gruvbox&show_icons=true)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tien02&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 <!---
