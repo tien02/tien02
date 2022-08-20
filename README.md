@@ -10,6 +10,9 @@
 
 ### :mailbox_with_no_mail: Connect with me
 
+<a href="https://www.facebook.com/tien.danganh/" target="_blank">
+<img align='left' width="26px" alt="Contact by facebook" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg"></a>
+
 <a href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%B7ng-a2b364249/" target="_blank">
 <img align='left' width="26px" alt="Contact by linkein" src="image/linkein.svg"></a>
 <br><br><hr>
