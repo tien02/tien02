@@ -8,11 +8,8 @@
 
 ### 📭 Connect with me
 
-<a href="https://www.facebook.com/tien.danganh/">
-<img align='left' alt="Contact by Facebook" width="26px" src="image/facebook.svg" ></a>
-
-<a href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%B7ng-a2b364249/" target="_blank">
-<img align='left' alt="Contact by linkein" width="26px" src="image/linkein.svg"></a>
+[facebook]: https://www.facebook.com/tien.danganh/
+[linkedin]: https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%B7ng-a2b364249/
 
 <br><br>
 
