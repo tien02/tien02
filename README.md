@@ -8,6 +8,8 @@
 
 ### Connect with me
 
+<a href="mailto: 20520800@gm.uit.edu.vn">mail</a>
+
 <a href="mailto:20520800@gm.uit.edu.vn">
 <img align='left' alt="Contact by mail" width="26px" src="image/mail.svg" ></a>
 
