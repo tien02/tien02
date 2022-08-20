@@ -1,6 +1,6 @@
 ## **Howdy, I'm Tien** :octocat:
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
 ## I'm a student, developer and a passionate person :volcano:
 
