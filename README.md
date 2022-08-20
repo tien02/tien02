@@ -8,10 +8,10 @@
 
 ### Connect with me
 
-<a href = "mailto:20520800@gm.uit.edu.vn" target = "_blank">
+<a href=mailto:20520800@gm.uit.edu.vn target = "_blank">
 <img align='left' alt="Contact by mail" width="26px" src="image/mail.svg" ></a>
 
-<a href = "#" target = "_blank">
+<a href="#" target = "_blank">
 <img align='left' alt="Contact by linkein" width="26px" src="image/linkein.svg"></a>
 
 <br><br>
