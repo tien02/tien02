@@ -1,17 +1,18 @@
 # Howdy, I'm Tien
 
-## I'm a student, developer and a passionate person 🔥
+## I'm a student, developer and a passionate person :volcano:
 
-- 🏫 I'm currently a Computer Science student at [University of Information and Technology](https://www.uit.edu.vn/).
-- 👍 I love Machine Learning and Deep Learning.
-- 🤖 I have knowledge in Computer Vision and Natuaral Language Processing area.
+- :raising_hand: I'm currently a Computer Science student at [University of Information and Technology](https://www.uit.edu.vn/).
+- :innocent: I love Machine Learning and Deep Learning.
+- :smiling_imp: I have knowledge in Computer Vision and Natuaral Language Processing area.
 
-### 📭 Connect with me
+<hr>
+
+### :mailbox_with_no_mail: Connect with me
 
 <a href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%B7ng-a2b364249/" target="_blank">
 <img align='left' width="26px" alt="Contact by linkein" src="image/linkein.svg"></a>
 <br><br><hr>
-
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -23,6 +24,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width=50 height=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width=50 height=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width=50 height=50/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Jupyter" alt="Jupyter" width=50 height=50/>" title="Git" alt="Git" width=50 height=50/>
 </div>
 <hr>
 
