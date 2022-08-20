@@ -13,7 +13,7 @@
 <a href="mailto:20520800@gm.uit.edu.vn">
 <img align='left' alt="Contact by mail" width="26px" src="image/mail.svg" ></a>
 
-<a href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%B7ng-a2b364249/" target = "_blank">
+<a href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%B7ng-a2b364249/" target="_blank">
 <img align='left' alt="Contact by linkein" width="26px" src="image/linkein.svg"></a>
 
 <br><br>
