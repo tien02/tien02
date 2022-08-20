@@ -1,4 +1,4 @@
-# Howdy, I'm Tien :octocat:
+## **Howdy, I'm Tien** :octocat:
 
 ## I'm a student, developer and a passionate person :volcano:
 
@@ -9,9 +9,6 @@
 <hr>
 
 ### :mailbox_with_no_mail: Connect with me
-
-<a href="https://www.facebook.com/tien.danganh/" target="_blank">
-<img align='left' width="26px" alt="Contact by facebook" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg"></a>
 
 <a href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%B7ng-a2b364249/" target="_blank">
 <img align='left' width="26px" alt="Contact by linkein" src="image/linkein.svg"></a>
@@ -44,8 +41,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tien02&theme=gruvbox&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tien02&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tien02)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tien02&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 <!---
 tien02/tien02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
