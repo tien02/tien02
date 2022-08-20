@@ -11,9 +11,7 @@
 <a href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%B7ng-a2b364249/" target="_blank">
 <img align='left' width="26px" alt="Contact by linkein" src="image/linkein.svg"></a>
 
-### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tien02&theme=gruvbox&show_icons=true)
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -26,6 +24,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width=50 height=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width=50 height=50/>
 </div>
+
+
+### :fire: My Stats :
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tien02&theme=gruvbox&show_icons=true)
 
 <!---
 tien02/tien02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
