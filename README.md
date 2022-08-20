@@ -1,13 +1,11 @@
 ## **Howdy, I'm Tien** :octocat:
 
 ## I'm a student, developer and a passionate person :volcano:
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif">
 
 - :raising_hand: I'm currently a Computer Science student at [University of Information and Technology](https://www.uit.edu.vn/).
 - :innocent: I love Machine Learning and Deep Learning.
 - :smiling_imp: I have knowledge in Computer Vision and Natuaral Language Processing area.
-
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif">
 
 <hr>
 
