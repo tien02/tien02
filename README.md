@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%B7ng-a2b364249/" target="_blank">
 <img align='left' width="26px" alt="Contact by linkein" src="image/linkein.svg"></a>
-
+<br><br>
 
 
 ### :hammer_and_wrench: Languages and Tools :
