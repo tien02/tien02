@@ -1,4 +1,4 @@
-# Howdy, I'm Tien
+# Howdy, I'm Tien :octocat:
 
 ## I'm a student, developer and a passionate person :volcano:
 
@@ -25,13 +25,24 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width=50 height=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width=50 height=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width=50 height=50/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width=50 height=50/>
 </div>
+<hr>
+
+### :trophy: My accomplishments
+
+- [Coursera's Deep Learning Specialization](https://coursera.org/share/b084d997325fbb29468b445789f82adf)
+
+- [Coursera's Natural Language Processing Specialization]() #Comming Soon
+
 <hr>
 
 ### :fire: My Stats :
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tien02&theme=gruvbox&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tien02&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tien02)](https://git.io/streak-stats)
 
 <!---
 tien02/tien02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
