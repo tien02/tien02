@@ -7,13 +7,14 @@
 - 🤖 I have knowledge in Computer Vision and Natuaral Language Processing area.
 
 ### Connect with me
-[<img align='left' alt="Contact by mail" width="26px" src="image/mail.svg" />](mailto:20520800@gm.uit.edu.vn)
 
+<a href = "mailto:20520800@gm.uit.edu.vn" target = "_blank">
+<img align='left' alt="Contact by mail" width="26px" src="image/mail.svg" /></a>
 
 <a href = "#" target = "_blank">
 <img align='left' alt="Contact by linkein" width="26px" src="image/linkein.svg" /></a>
 
-<br>
+<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tien02&theme=gruvbox&show_icons=true)
 
