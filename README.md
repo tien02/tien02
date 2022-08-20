@@ -8,15 +8,14 @@
 - :innocent: I love Machine Learning and Deep Learning.
 - :smiling_imp: I have knowledge in Computer Vision and Natuaral Language Processing area.
 
-<hr>
 
-### :mailbox_with_no_mail: Connect with me
+## :mailbox_with_no_mail: Connect with me
 
 <a href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%B7ng-a2b364249/" target="_blank">
 <img align='left' width="26px" alt="Contact by linkein" src="image/linkein.svg"></a>
-<br><br><hr>
+<br><br>
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools 
 <br>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width=50 height=50/>
@@ -29,17 +28,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width=50 height=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width=50 height=50/>
 </div>
-<hr>
 
-### :trophy: My accomplishments
+## :trophy: My accomplishments
 
 - [Coursera's Deep Learning Specialization](https://coursera.org/share/b084d997325fbb29468b445789f82adf)
 
 - [Coursera's Natural Language Processing Specialization]() #Comming Soon
 
-<hr>
 
-### :fire: My Stats :
+### :fire: My Stats 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tien02&theme=gruvbox&show_icons=true)
