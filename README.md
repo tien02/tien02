@@ -9,7 +9,7 @@
 ### 📭 Connect with me
 
 <a href="https://www.facebook.com/tien.danganh/">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/Facebook.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/Messenger.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%B7ng-a2b364249/" target="_blank">
