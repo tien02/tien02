@@ -16,7 +16,7 @@
 <br><br><hr>
 
 ### :hammer_and_wrench: Languages and Tools :
-<hr>
+<br>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width=50 height=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width=50 height=50/>
