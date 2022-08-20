@@ -7,7 +7,7 @@
 - 🤖 I have knowledge in Computer Vision and Natuaral Language Processing area.
 
 ### Connect with me
-[<img align='left' alt="Contact by mail" width="26px" src="image/mail.svg" />](<a href = "mailto:20520800@gm.uit.edu.vn" target = "_blank"></a>)
+[<img align='left' alt="Contact by mail" width="26px" src="image/mail.svg" />](mailto:20520800@gm.uit.edu.vn)
 
 
 <a href = "#" target = "_blank">
