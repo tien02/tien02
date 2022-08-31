@@ -11,7 +11,7 @@
 
 ## :mailbox_with_no_mail: Connect with me
 
-<a href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%B7ng-a2b364249/" target="_blank">
+<a href="https://www.linkedin.com/in/tien-dang-anh-a2b364249/" target="_blank">
 <img align='left' width="26px" alt="Contact by linkein" src="image/linkein.svg"></a>
 <br><br>
 
