@@ -31,10 +31,11 @@
 
 ## :trophy: My accomplishments
 
+- [Coursera's Machine Learning Specialization](https://coursera.org/share/1e14cc22ed5475a748f83336d369d8f5)
+
 - [Coursera's Deep Learning Specialization](https://coursera.org/share/b084d997325fbb29468b445789f82adf)
 
 - [Coursera's Natural Language Processing Specialization](https://coursera.org/share/1afc45192ef01aeedc94795db4752e8f) 
-
 
 ## :fire: My Stats 
 
