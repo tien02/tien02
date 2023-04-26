@@ -2,18 +2,11 @@
 
 <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
-## I'm a student, developer and a passionate person :volcano:
+## Introduce myself :volcano:
 
-- :raising_hand: I'm currently a Computer Science student at [University of Information and Technology](https://www.uit.edu.vn/).
-- :innocent: I love Machine Learning and Deep Learning.
-- :smiling_imp: I have knowledge in Computer Vision and Natuaral Language Processing area.
-
-
-## :mailbox_with_no_mail: Connect with me
-
-<a href="https://www.linkedin.com/in/tien-dang-anh-a2b364249/" target="_blank">
-<img align='left' width="26px" alt="Contact by linkein" src="image/linkein.svg"></a>
-<br><br>
+- :raising_hand: Third year Computer Science student at [UIT-VNU](https://www.uit.edu.vn/).
+- :innocent: Machine Learning and Deep Learning are my interests.
+- :smiling_imp: Experience with Computer Vision and Natuaral Language Processing projects.
 
 ## :hammer_and_wrench: Languages and Tools 
 <br>
@@ -30,7 +23,6 @@
 </div>
 
 ## :fire: My Stats 
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tien02&theme=gruvbox&show_icons=true)
 
