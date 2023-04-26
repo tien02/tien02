@@ -2,13 +2,13 @@
 
 <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
-## Introduce myself :volcano:
+## :shrug: About me
 
-- :raising_hand: Third year Computer Science student at [UIT-VNU](https://www.uit.edu.vn/).
-- :innocent: Machine Learning and Deep Learning are my interests.
-- :smiling_imp: Experience with Computer Vision and Natuaral Language Processing projects.
+- Third year Computer Science student at [UIT-VNU](https://www.uit.edu.vn/).
+- `ML`/`DL` are my interests.
+- Experience with `CV`/`NLP` projects.
 
-## :hammer_and_wrench: Languages and Tools 
+## :hammer_and_wrench: Tools kits 
 <br>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width=50 height=50/>
@@ -22,7 +22,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width=50 height=50/>
 </div>
 
-## :fire: My Stats 
+## :chart_with_upwards_trend: Stats 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tien02&theme=gruvbox&show_icons=true)
 
