@@ -1,6 +1,10 @@
 ## :octocat: **Call me Tien Dang** 
+![Profile views](https://gpvc.arturio.dev/Naereen)
+
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
 <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
+
 
 ## :shrug: About me
 
