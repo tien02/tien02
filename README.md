@@ -1,3 +1,5 @@
+<img alt="banner" style="width:100vw" src="image/banner.png">
+
 <h1 align='center'>👨‍💻👉 Call me Tien Dang 👈👨‍💻</h1>
 </br>
 <h2>✌️ About me ✌</h2>
