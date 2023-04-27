@@ -1,12 +1,13 @@
-<h1 align='center'>Call me Tien Dang</h1>
-
-<h3 align='center'>About me</h3>
+<h1 align='center'>👨‍💻👉 Call me Tien Dang 👈👨‍💻</h1>
+</br>
+<h3 align='center'>🚶🚶🚶✌️ About me ✌️🚶🚶🚶</h3>
 
 - Third year Computer Science student at [UIT-VNU](https://www.uit.edu.vn/).
 - `ML`/`DL` are my interests.
 - Experience with `CV`/`NLP` projects.
 
-<h3 align='center'>Stats</h3>
+</br>
+<h3 align='center'>👐👐👐 Stats 👐👐👐</h3>
 
 <div align='center'>
 <a href="https://github.com/anuraghazra/github-readme-stats">
