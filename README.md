@@ -8,7 +8,6 @@
   <li>Third year Computer Science student at UIT-VNU.</li>
   <li>ML & DL are my interests.</li>
   <li>Experience with CV & NLP projects.</li>
-  <li>Research interest in Scene text recognition, Sentiment analysis, Object Tracking.</li>
 </ul>
 
 </br>
